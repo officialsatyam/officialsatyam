@@ -64,7 +64,7 @@
 <div align="center">
   <img 
   align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=ssatyamchauhan&include_all_commits=true&count_private=true&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api?username=officialsatyam&include_all_commits=true&count_private=true&show_icons=true"
   />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssatyamchauhan&" alt="ssatyamchauhan" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialsatyam&" alt="officialsatyam" />
 </div>
